@@ -12,3 +12,5 @@ a=900
 httpd = make_server('', a, yingyong)
 
 httpd.serve_forever()
+
+print (1)
