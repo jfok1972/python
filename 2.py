@@ -8,5 +8,5 @@ plt.plot(x,y)
 plt.show()
 
 print ('abcd')
-print ('dddddddgit')
+print ('ddddd22ddgit')
 print ('aaa')
